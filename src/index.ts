@@ -34,6 +34,8 @@ const allowedOrigins = [
   'http://localhost:5174',
   'http://localhost:5173',
   'https://pandawok-reserve.netlify.app',
+  'https://pandawok-reserva.netlify.app',
+
 ];
 
 app.use(helmet());
